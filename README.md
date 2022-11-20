@@ -11,7 +11,7 @@ El proyecto es un buscador de recetas, que hace el llamado  a 3 apis, para rende
 
 ## *Version 1.0.0:*
 
-- [![App](https://img.shields.io/badge/App-informational?style=for-the-badge&logo=netlify&logoColor=fff&color=23272d)](https://...)
+- [![App](https://img.shields.io/badge/App-informational?style=for-the-badge&logo=netlify&logoColor=fff&color=23272d)](https://nahuel-devone.github.io/buscador-recetas/)
 
 - No tiene incorporada ninguna base de datos, pero usa localStorage como persistencia de los datos, para mantener guardadas las recetas en favoritos.
 
@@ -22,18 +22,22 @@ El proyecto es un buscador de recetas, que hace el llamado  a 3 apis, para rende
 - [Bootstrap](https://getbootstrap.com/)
 - [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
-<!-- ## **Screenshots:**
+## **Screenshots:**
 
 ### 1. Home:
-## ![](public/images/flujo-compra/home.png)
+## ![](img/img-inicio.png)
 
-### 2. Detalle del producto seleccionado:
+### 2. Llamado a la API:
+## ![](img/img-llamado.png)
 
-## ![](public/images/flujo-compra/detalle-producto.png)
+### 3. Receta:
+## ![](img/img-receta.png)
 
-### 3. Carrito de compras, con productos seleccionados:
+### 4. Información de la receta:
+## ![](img/img-receta-info.png)
 
-## ![](public/images/flujo-compra/carrito-compra.png) -->
+### 5. Favoritos:
+## ![](img/img-favoritos.png)
 
 
   <!-- Hecho con amor -->
